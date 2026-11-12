@@ -1,6 +1,6 @@
 # 🔍 FileGuard
 
-![CI](https://github.com/Taha2025/fileguard/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/Taha2045/fileguard/actions/workflows/ci.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
